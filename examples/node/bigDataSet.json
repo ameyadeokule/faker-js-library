@@ -1,0 +1,149 @@
+[
+	{
+		"name": "Silvername",
+		"team": "OpTic Gaming",
+		"game": "League of Legends",
+		"event": "Worlds",
+		"league": "MLG"
+	},
+	{
+		"name": "xPeke",
+		"team": "Cloud9",
+		"game": "Super Smash Bros. Melee",
+		"event": "Worlds",
+		"league": "GFinity"
+	},
+	{
+		"name": "RamboRay",
+		"team": "Natus Vincere",
+		"game": "PUBG",
+		"event": "The International",
+		"league": "MLG"
+	},
+	{
+		"name": "ACE",
+		"team": "Natus Vincere",
+		"game": "Overwatch",
+		"event": "MLG Meadowlands",
+		"league": "MLG"
+	},
+	{
+		"name": "Miracle",
+		"team": "Natus Vincere",
+		"game": "League of Legends",
+		"event": "IEM Championship",
+		"league": "Starladder"
+	},
+	{
+		"name": "KennyS",
+		"team": "Evil Geniuses",
+		"game": "CS:GO",
+		"event": "IEM Championship",
+		"league": "IEM"
+	},
+	{
+		"name": "cArn",
+		"team": "Virtus.Pro",
+		"game": "Overwatch",
+		"event": "The International",
+		"league": "IEM"
+	},
+	{
+		"name": "KennyS",
+		"team": "Fnatic",
+		"game": "Overwatch",
+		"event": "GFinity London",
+		"league": "IEM"
+	},
+	{
+		"name": "Crimsix",
+		"team": "EnVyUs",
+		"game": "Dota 2",
+		"event": "MLG Meadowlands",
+		"league": "GFinity"
+	},
+	{
+		"name": "ACE",
+		"team": "Ninjas in Pijamas",
+		"game": "StarCraft II",
+		"event": "GFinity London",
+		"league": "IEM"
+	},
+	{
+		"name": "Surefour",
+		"team": "FaZe",
+		"game": "Dota 2",
+		"event": "League All Stars",
+		"league": "IEM"
+	},
+	{
+		"name": "Grubby",
+		"team": "FaZe",
+		"game": "Super Smash Bros. Melee",
+		"event": "GFinity London",
+		"league": "MLG"
+	},
+	{
+		"name": "KennyS",
+		"team": "OpTic Gaming",
+		"game": "League of Legends",
+		"event": "MLG Meadowlands",
+		"league": "MLG"
+	},
+	{
+		"name": "ACE",
+		"team": "Ninjas in Pijamas",
+		"game": "Hearthstone",
+		"event": "The International",
+		"league": "ESL"
+	},
+	{
+		"name": "f0rest",
+		"team": "Virtus.Pro",
+		"game": "CS:GO",
+		"event": "League All Stars",
+		"league": "ESL"
+	},
+	{
+		"name": "Surefour",
+		"team": "OpTic Gaming",
+		"game": "StarCraft II",
+		"event": "ESL Cologne",
+		"league": "GFinity"
+	},
+	{
+		"name": "ACE",
+		"team": "Dignitas",
+		"game": "Super Smash Bros. Melee",
+		"event": "IEM Championship",
+		"league": "MLG"
+	},
+	{
+		"name": "Boxer",
+		"team": "Dignitas",
+		"game": "Overwatch",
+		"event": "GFinity London",
+		"league": "IEM"
+	},
+	{
+		"name": "Flash",
+		"team": "Team Secret",
+		"game": "Dota 2",
+		"event": "The International",
+		"league": "ESL"
+	},
+	{
+		"name": "Silvername",
+		"team": "Team Secret",
+		"game": "Super Smash Bros. Melee",
+		"event": "IEM Championship",
+		"league": "ESL"
+	},
+	{
+		"name": "KennyS",
+		"team": "OpTic Gaming",
+		"game": "Overwatch",
+		"event": "Worlds",
+		"league": "ESL"
+	}
+]
